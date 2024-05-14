@@ -1,0 +1,8 @@
+img {
+  width: 6rem;
+  height: 6rem;
+  display: grid;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px rgb(231, 231, 231);
+}
